@@ -1,0 +1,7 @@
+.env_backup
+.idea/
+/nbproject/private/
+.env
+storage
+public
+envs
